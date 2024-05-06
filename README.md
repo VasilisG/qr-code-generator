@@ -9,4 +9,4 @@ Stack used:
 
 ## Demo
 
-You can view the demo here.
+You can view the demo [here](https://vasilisg.github.io/qr-code-generator/).
